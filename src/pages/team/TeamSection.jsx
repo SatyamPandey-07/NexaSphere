@@ -88,7 +88,7 @@ export default function TeamSection({ onApply }) {
         </div>
 
         {/* Join core team CTA */}
-        <div className="pop-in ns-reveal-scale" style={{
+        <div className="ns-reveal-scale" style={{
           textAlign:'center',marginTop:'56px',padding:'28px',
           background:'var(--card)',border:'1px solid var(--bdr)',
           borderRadius:'var(--r3)',maxWidth:'520px',margin:'56px auto 0',
